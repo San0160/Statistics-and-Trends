@@ -1,2 +1,2 @@
 # Statistics-and-Trends
-This is an assignment for Statistics and Trends
+Assignment for Statistics and Trends
